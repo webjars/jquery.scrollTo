@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery.scrollTo</artifactId>
-    <version>1.4.14-SNAPSHOT</version>
+    <version>1.4.14</version>
     <name>jQuery.scrollTo</name>
     <description>WebJar for jQuery.scrollTo</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/jquery.scrollTo</url>
         <connection>scm:git:https://github.com/webjars/jquery.scrollTo.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery.scrollTo.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery.scrollTo-1.4.14</tag>
     </scm>
     
     <dependencies>
